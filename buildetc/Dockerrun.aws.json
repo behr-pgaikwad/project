@@ -1,11 +1,7 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-<<<<<<< HEAD
     "Name": "prod"
-=======
-    "Name": "dev"
->>>>>>> dev-branch
   },
   "Ports": [
     {
